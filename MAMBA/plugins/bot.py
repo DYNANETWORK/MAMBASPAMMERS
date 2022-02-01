@@ -152,57 +152,57 @@ async def ping(e):
 @BOT7.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 @BOT8.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 @BOT9.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
-@BOT10.on(events.NewMessage(incoming=True, pattern=r"\%restart(?: |$)(.*)" % hl))
-@BOT11.on(events.NewMessage(incoming=True, pattern=r"\%restart(?: |$)(.*)" % hl))
-@BOT12.on(events.NewMessage(incoming=True, pattern=r"\%restart(?: |$)(.*)" % hl))
-@BOT13.on(events.NewMessage(incoming=True, pattern=r"\%restart(?: |$)(.*)" % hl))
-@BOT14.on(events.NewMessage(incoming=True, pattern=r"\%restart(?: |$)(.*)" % hl))
-@BOT15.on(events.NewMessage(incoming=True, pattern=r"\%restart(?: |$)(.*)" % hl))
-@BOT16.on(events.NewMessage(incoming=True, pattern=r"\%restart(?: |$)(.*)" % hl))
-@BOT17.on(events.NewMessage(incoming=True, pattern=r"\%restart(?: |$)(.*)" % hl))
-@BOT18.on(events.NewMessage(incoming=True, pattern=r"\%restart(?: |$)(.*)" % hl))
-@BOT19.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT20.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT21.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT22.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT23.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT24.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT25.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT26.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT27.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT28.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT29.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT30.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT31.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT32.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT33.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT34.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT35.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT36.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT37.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT38.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT39.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT40.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT41.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT42.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT43.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT44.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT45.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT46.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT47.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT48.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT49.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT50.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT51.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT52.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT53.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT54.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT55.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT56.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT57.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT58.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT59.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
-@BOT60.on(events.NewMessage(incoming=True, pattern=r"\%sping(?: |$)(.*)" % hl))
+@BOT10.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT11.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT12.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT13.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT14.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT15.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT16.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT17.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT18.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT19.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT20.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT21.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT22.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT23.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT24.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT25.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT26.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT27.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT28.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT29.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT30.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT31.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT32.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT33.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT34.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT35.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT36.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT37.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT38.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT39.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT40.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT41.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT42.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT43.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT44.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT45.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT46.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT47.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT48.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT49.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT50.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT51.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT52.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT53.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT54.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT55.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT56.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT57.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT58.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT59.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
+@BOT60.on(events.NewMessage(incoming=True, pattern=r"\%srestart(?: |$)(.*)" % hl))
 async def restart(e):
     if e.sender_id in SUDO_USERS:
         text = "**Rebooting ↪️**.. Please Wait Until It Starts Again"
@@ -247,6 +247,211 @@ async def restart(e):
             await BOT9.disconnect()
         except Exception:
             pass
+        try:
+            await BOT10.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT11.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT12.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT13.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT14.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT15.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT16.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT17.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT18.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT19.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT20.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT21.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT22.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT23.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT24.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT25.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT26.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT27.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT28.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT29.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT30.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT31.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT32.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT33.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT34.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT35.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT36.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT37.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT38.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT39.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT40.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT41.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT42.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT43.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT44.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT45.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT46.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT47.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT48.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT49.disconnect()
+        except exception:
+            pass
+        try:
+            await BOT50.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT51.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT52.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT53.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT54.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT55.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT56.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT57.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT58.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT59.disconnect()
+        except Exception:
+            pass
+        try:
+            await BOT60.disconnect()
+        except Exception:
+            pass
+      
 
         os.execl(sys.executable, sys.executable, *sys.argv)
         quit()
