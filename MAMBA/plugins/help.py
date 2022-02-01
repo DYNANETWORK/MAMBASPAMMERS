@@ -5,7 +5,7 @@ from time import time
 from datetime import datetime
 from MAMBA import CMD_HNDLR as hl
     
-HELP_PIC = "https://telegra.ph/file/c6f99c0b68ff07439ed72.jpg"
+HELP_PIC = "https://telegra.ph/file/a8a793a8716bdcc923fd3.jpg"
 
 MAMBA_Help = "🔥 ʍǟʍɮǟ ֆքǟʍʍɛʀֆ 🔥\n\n"
  
