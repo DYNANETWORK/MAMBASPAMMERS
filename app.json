@@ -1,0 +1,369 @@
+{
+    "name": "MAMBA SPAMMERS",
+    "description": "MOST POWERFUL + STABLE SPAM USERBOTS",
+    "logo": "",
+    "keywords": [
+        "telegram",
+        "telethon",
+        "telegram-bot",
+        "SpamBots"
+    ],
+    "repository": "https://t.me/MAMBA_NETWORK",
+    "website": "https://t.me/MAMBA_NETWORK",
+    "success_url": "https://t.me/MAMBA_NETWORK",
+    "env": {
+             "API_ID": {
+        "description": "Fill Api ID Take this value from My.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "ALIVE_PIC": {
+        "description": "your alive pic or video",
+        "value": "",
+        "required": false
+      },
+      "API_HASH": {
+        "description": "Fill Api hash Take this value from My.telegram.org",
+        "value": "",
+        "required": true
+      },
+     "CMD_HNDLR": {
+            "description": "Custom command handler.",
+            "value": "!",
+            "required": false
+        },
+      "BOT_TOKEN": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN2": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN3": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN4": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN5": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN6": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN7": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN8": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN9": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN10": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+       "BOT_TOKEN11": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN12": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN13": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN14": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN15": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN16": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN17": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN18": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN19": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN20": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+       "BOT_TOKEN21": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN22": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN23": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN24": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN25": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN26": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN27": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN28": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN29": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN30": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+       "BOT_TOKEN31": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN32": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN33": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN34": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN35": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN36": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN37": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN38": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN39": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN40": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+       "BOT_TOKEN41": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN42": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN43": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN44": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN45": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN46": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN47": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN48": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN49": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN50": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+       "BOT_TOKEN51": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN52": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN53": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN54": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN55": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN56": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN57": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN58": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN59": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN60": {
+        "description": "Telegram Bot Token Get This value from https://t.me/BotFather",
+        "value": "",
+        "required": true
+      },
+       "SUDO_USER": {
+            "description": "Sudo users id space by space",
+            "value": "",
+            "required": false
+        },
+      "OWNER_ID": {
+            "description": "owner Id",
+            "value": "",
+            "required": true
+        },
+        "HEROKU_API_KEY": {
+            "description": "Your Heroku api key to update your bot",
+            "value": "",
+            "required": false 
+        },
+        "HEROKU_APP_NAME": {
+            "description": "Your app name to Update your bot",
+          "value": "",
+          "required": false  
+        }
+    },
+  "addons": [
+    {
+      "plan": "heroku-postgresql",
+      "options": {
+        "version": "12"
+      }
+    }
+  ],
+  "buildpacks": [
+        {
+            "url": "heroku/python"
+        }
+    ]
+}
