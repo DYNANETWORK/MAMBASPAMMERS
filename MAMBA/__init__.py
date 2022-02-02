@@ -102,121 +102,121 @@ SUDO_USERS.append(1102947903)
 
 BOT0 = TelegramClient('BOT0', API_ID, API_HASH).start(bot_token=BOT_TOKEN)
 
-BOT1 = TelegramClient('BOT1', API_ID, API_HASH).start(bot_token=BOT_TOKEN2)
+BOT1 = TelegramClient('BOT1').start(bot_token=BOT_TOKEN2)
 
-BOT2 = TelegramClient('BOT2', API_ID, API_HASH).start(bot_token=BOT_TOKEN3)
+BOT2 = TelegramClient('BOT2').start(bot_token=BOT_TOKEN3)
 
-BOT3 = TelegramClient('BOT3', API_ID, API_HASH).start(bot_token=BOT_TOKEN4)
+BOT3 = TelegramClient('BOT3').start(bot_token=BOT_TOKEN4)
 
-BOT4 = TelegramClient('BOT4', API_ID, API_HASH).start(bot_token=BOT_TOKEN5)
+BOT4 = TelegramClient('BOT4').start(bot_token=BOT_TOKEN5)
 
-BOT5 = TelegramClient('BOT5', API_ID, API_HASH).start(bot_token=BOT_TOKEN6)
+BOT5 = TelegramClient('BOT5').start(bot_token=BOT_TOKEN6)
 
-BOT6 = TelegramClient('BOT6', API_ID, API_HASH).start(bot_token=BOT_TOKEN7)
+BOT6 = TelegramClient('BOT6').start(bot_token=BOT_TOKEN7)
 
-BOT7 = TelegramClient('BOT7', API_ID, API_HASH).start(bot_token=BOT_TOKEN8)
+BOT7 = TelegramClient('BOT7').start(bot_token=BOT_TOKEN8)
 
-BOT8 = TelegramClient('BOT8', API_ID, API_HASH).start(bot_token=BOT_TOKEN9)
+BOT8 = TelegramClient('BOT8').start(bot_token=BOT_TOKEN9)
 
-BOT9 = TelegramClient('BOT9', API_ID, API_HASH).start(bot_token=BOT_TOKEN10)
+BOT9 = TelegramClient('BOT9').start(bot_token=BOT_TOKEN10)
 
-BOT10 = TelegramClient('BOT10', API_ID, API_HASH).start(bot_token=BOT_TOKEN11)
+BOT10 = TelegramClient('BOT10').start(bot_token=BOT_TOKEN11)
 
-BOT11 = TelegramClient('BOT11', API_ID, API_HASH).start(bot_token=BOT_TOKEN12)
+BOT11 = TelegramClient('BOT11').start(bot_token=BOT_TOKEN12)
 
-BOT12 = TelegramClient('BOT12', API_ID, API_HASH).start(bot_token=BOT_TOKEN13)
+BOT12 = TelegramClient('BOT12').start(bot_token=BOT_TOKEN13)
 
-BOT13 = TelegramClient('BOT13', API_ID, API_HASH).start(bot_token=BOT_TOKEN14)
+BOT13 = TelegramClient('BOT13').start(bot_token=BOT_TOKEN14)
 
-BOT14 = TelegramClient('BOT14', API_ID, API_HASH).start(bot_token=BOT_TOKEN15)
+BOT14 = TelegramClient('BOT14').start(bot_token=BOT_TOKEN15)
 
-BOT15 = TelegramClient('BOT15', API_ID, API_HASH).start(bot_token=BOT_TOKEN16)
+BOT15 = TelegramClient('BOT15').start(bot_token=BOT_TOKEN16)
 
-BOT16 = TelegramClient('BOT16', API_ID, API_HASH).start(bot_token=BOT_TOKEN17)
+BOT16 = TelegramClient('BOT16').start(bot_token=BOT_TOKEN17)
 
-BOT17 = TelegramClient('BOT17', API_ID, API_HASH).start(bot_token=BOT_TOKEN18)
+BOT17 = TelegramClient('BOT17').start(bot_token=BOT_TOKEN18)
 
-BOT18 = TelegramClient('BOT18', API_ID, API_HASH).start(bot_token=BOT_TOKEN19)
+BOT18 = TelegramClient('BOT18').start(bot_token=BOT_TOKEN19)
 
-BOT19 = TelegramClient('BOT19', API_ID, API_HASH).start(bot_token=BOT_TOKEN20)
+BOT19 = TelegramClient('BOT19').start(bot_token=BOT_TOKEN20)
 
-BOT20 = TelegramClient('BOT20', API_ID, API_HASH).start(bot_token=BOT_TOKEN21)
+BOT20 = TelegramClient('BOT20').start(bot_token=BOT_TOKEN21)
 
-BOT21 = TelegramClient('BOT21', API_ID, API_HASH).start(bot_token=BOT_TOKEN22)
+BOT21 = TelegramClient('BOT21').start(bot_token=BOT_TOKEN22)
 
-BOT22 = TelegramClient('BOT22', API_ID, API_HASH).start(bot_token=BOT_TOKEN23)
+BOT22 = TelegramClient('BOT22').start(bot_token=BOT_TOKEN23)
 
-BOT23 = TelegramClient('BOT23', API_ID, API_HASH).start(bot_token=BOT_TOKEN24)
+BOT23 = TelegramClient('BOT23').start(bot_token=BOT_TOKEN24)
 
-BOT24 = TelegramClient('BOT24', API_ID, API_HASH).start(bot_token=BOT_TOKEN25)
+BOT24 = TelegramClient('BOT24').start(bot_token=BOT_TOKEN25)
 
-BOT25 = TelegramClient('BOT25', API_ID, API_HASH).start(bot_token=BOT_TOKEN26)
+BOT25 = TelegramClient('BOT25').start(bot_token=BOT_TOKEN26)
 
-BOT26 = TelegramClient('BOT26', API_ID, API_HASH).start(bot_token=BOT_TOKEN27)
+BOT26 = TelegramClient('BOT26').start(bot_token=BOT_TOKEN27)
 
-BOT27 = TelegramClient('BOT27', API_ID, API_HASH).start(bot_token=BOT_TOKEN28)
+BOT27 = TelegramClient('BOT27').start(bot_token=BOT_TOKEN28)
 
-BOT28 = TelegramClient('BOT28', API_ID, API_HASH).start(bot_token=BOT_TOKEN29)
+BOT28 = TelegramClient('BOT28').start(bot_token=BOT_TOKEN29)
 
-BOT29 = TelegramClient('BOT29', API_ID, API_HASH).start(bot_token=BOT_TOKEN30)
+BOT29 = TelegramClient('BOT29').start(bot_token=BOT_TOKEN30)
 
-BOT30 = TelegramClient('BOT30', API_ID, API_HASH).start(bot_token=BOT_TOKEN31)
+BOT30 = TelegramClient('BOT30').start(bot_token=BOT_TOKEN31)
 
-BOT31 = TelegramClient('BOT31', API_ID, API_HASH).start(bot_token=BOT_TOKEN32)
+BOT31 = TelegramClient('BOT31').start(bot_token=BOT_TOKEN32)
 
-BOT32 = TelegramClient('BOT32', API_ID, API_HASH).start(bot_token=BOT_TOKEN33)
+BOT32 = TelegramClient('BOT32').start(bot_token=BOT_TOKEN33)
 
-BOT33 = TelegramClient('BOT33', API_ID, API_HASH).start(bot_token=BOT_TOKEN34)
+BOT33 = TelegramClient('BOT33').start(bot_token=BOT_TOKEN34)
 
-BOT34 = TelegramClient('BOT34', API_ID, API_HASH).start(bot_token=BOT_TOKEN35)
+BOT34 = TelegramClient('BOT34').start(bot_token=BOT_TOKEN35)
 
-BOT35 = TelegramClient('BOT35', API_ID, API_HASH).start(bot_token=BOT_TOKEN36)
+BOT35 = TelegramClient('BOT35').start(bot_token=BOT_TOKEN36)
 
-BOT36 = TelegramClient('BOT36', API_ID, API_HASH).start(bot_token=BOT_TOKEN37)
+BOT36 = TelegramClient('BOT36').start(bot_token=BOT_TOKEN37)
 
-BOT37 = TelegramClient('BOT37', API_ID, API_HASH).start(bot_token=BOT_TOKEN38)
+BOT37 = TelegramClient('BOT37').start(bot_token=BOT_TOKEN38)
 
-BOT38 = TelegramClient('BOT38', API_ID, API_HASH).start(bot_token=BOT_TOKEN39)
+BOT38 = TelegramClient('BOT38').start(bot_token=BOT_TOKEN39)
 
-BOT39 = TelegramClient('BOT39', API_ID, API_HASH).start(bot_token=BOT_TOKEN40)
+BOT39 = TelegramClient('BOT39').start(bot_token=BOT_TOKEN40)
 
-BOT40 = TelegramClient('BOT40', API_ID, API_HASH).start(bot_token=BOT_TOKEN41)
+BOT40 = TelegramClient('BOT40').start(bot_token=BOT_TOKEN41)
 
-BOT41 = TelegramClient('BOT41', API_ID, API_HASH).start(bot_token=BOT_TOKEN42)
+BOT41 = TelegramClient('BOT41').start(bot_token=BOT_TOKEN42)
 
-BOT42 = TelegramClient('BOT42', API_ID, API_HASH).start(bot_token=BOT_TOKEN43)
+BOT42 = TelegramClient('BOT42').start(bot_token=BOT_TOKEN43)
 
-BOT43 = TelegramClient('BOT43', API_ID, API_HASH).start(bot_token=BOT_TOKEN44)
+BOT43 = TelegramClient('BOT43').start(bot_token=BOT_TOKEN44)
 
-BOT44 = TelegramClient('BOT44', API_ID, API_HASH).start(bot_token=BOT_TOKEN45)
+BOT44 = TelegramClient('BOT44').start(bot_token=BOT_TOKEN45)
 
-BOT45 = TelegramClient('BOT45', API_ID, API_HASH).start(bot_token=BOT_TOKEN46)
+BOT45 = TelegramClient('BOT45').start(bot_token=BOT_TOKEN46)
 
-BOT46 = TelegramClient('BOT46', API_ID, API_HASH).start(bot_token=BOT_TOKEN47)
+BOT46 = TelegramClient('BOT46').start(bot_token=BOT_TOKEN47)
 
-BOT47 = TelegramClient('BOT47', API_ID, API_HASH).start(bot_token=BOT_TOKEN48)
+BOT47 = TelegramClient('BOT47').start(bot_token=BOT_TOKEN48)
 
-BOT48 = TelegramClient('BOT48', API_ID, API_HASH).start(bot_token=BOT_TOKEN49)
+BOT48 = TelegramClient('BOT48').start(bot_token=BOT_TOKEN49)
 
-BOT49 = TelegramClient('BOT49', API_ID, API_HASH).start(bot_token=BOT_TOKEN50)
+BOT49 = TelegramClient('BOT49').start(bot_token=BOT_TOKEN50)
 
-BOT50 = TelegramClient('BOT50', API_ID, API_HASH).start(bot_token=BOT_TOKEN51)
+BOT50 = TelegramClient('BOT50').start(bot_token=BOT_TOKEN51)
 
-BOT51 = TelegramClient('BOT51', API_ID, API_HASH).start(bot_token=BOT_TOKEN52)
+BOT51 = TelegramClient('BOT51').start(bot_token=BOT_TOKEN52)
 
-BOT52 = TelegramClient('BOT52', API_ID, API_HASH).start(bot_token=BOT_TOKEN53)
+BOT52 = TelegramClient('BOT52').start(bot_token=BOT_TOKEN53)
 
-BOT53 = TelegramClient('BOT53', API_ID, API_HASH).start(bot_token=BOT_TOKEN54)
+BOT53 = TelegramClient('BOT53').start(bot_token=BOT_TOKEN54)
 
-BOT54 = TelegramClient('BOT54', API_ID, API_HASH).start(bot_token=BOT_TOKEN55)
+BOT54 = TelegramClient('BOT54').start(bot_token=BOT_TOKEN55)
 
-BOT55 = TelegramClient('BOT55', API_ID, API_HASH).start(bot_token=BOT_TOKEN56)
+BOT55 = TelegramClient('BOT55').start(bot_token=BOT_TOKEN56)
 
-BOT56 = TelegramClient('BOT56', API_ID, API_HASH).start(bot_token=BOT_TOKEN57)
+BOT56 = TelegramClient('BOT56').start(bot_token=BOT_TOKEN57)
 
-BOT57 = TelegramClient('BOT57', API_ID, API_HASH).start(bot_token=BOT_TOKEN58)
+BOT57 = TelegramClient('BOT57').start(bot_token=BOT_TOKEN58)
 
-BOT58 = TelegramClient('BOT58', API_ID, API_HASH).start(bot_token=BOT_TOKEN59)
+BOT58 = TelegramClient('BOT58').start(bot_token=BOT_TOKEN59)
 
-BOT59 = TelegramClient('BOT59', API_ID, API_HASH).start(bot_token=BOT_TOKEN60)
+BOT59 = TelegramClient('BOT59').start(bot_token=BOT_TOKEN60)
 
